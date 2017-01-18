@@ -7,11 +7,87 @@ h1, h2, h3, h4 {
   font-weight: 700;
 }
 
+p {
+  font-size: 95%
+}
+
+#white {
+  color: white;
+}
+
+#specialwhite {
+  color: white;
+}
+
+.navbar{
+  background-color: rgb(246,52,64);
+}
+
+.nav-color{
+  color: white !important;
+}
+
+.nav-text{
+    font-size: 90%;
+}
+
 .navbar-brand {
   font-family: "Passion One";
   font-size: xx-large;
+  color: white !important;
 }
 
+.who-delivers {
+  /*who-delivers hero*/
+  background: url("images/main-hero.jpg") no-repeat center center;
+  background-size: cover;
+  color: white;
+  height: 500px;
+  padding-top: 150px;
+}
+
+.signup{
+  text-align: left;
+}
+
+.address-prompt{
+  font-size: 90%
+}
+
+.centered{
+  text-align: center;
+}
+
+.large-spot{
+  width: 200px;
+  height: 200px;
+}
+
+.sound-bites{
+  background-color: rgb(238, 238, 238);
+}
+
+.profpic{
+  width: 50px;
+  height: 50px;
+}
+
+.store-link{
+  width: 200px;
+}
+
+.download-apps{
+  background-color: black;
+}
+
+.why-order{
+  background-color: rgb(238, 238, 238);
+}
+
+.footer-color{
+  background-color: blue;
+  color: white;
+}
 /* My standard vertical spacing classes */
 
 .padding-inside-top-xs {
